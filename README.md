@@ -1,6 +1,9 @@
 <div align="center">
   <h1 align="center">Hello, I am <b>Luis Miguel (LuisCoding05)</b> 👋</h1>
 </div>
+<div align="center">
+  <img src="https://github.com/LuisCoding05/LuisCoding05/blob/main/LuisCoding05%20-%20Banner.jpg" alt="LuisCoding05 Banner" style="width:100%; max-height:400px;">
+</div>
 
 ---
 
