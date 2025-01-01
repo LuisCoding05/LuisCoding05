@@ -37,7 +37,7 @@
 ## Skills
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap, React (learning)
-- **Backend**: Node.js, PHP, Java, Python
+- **Backend**: PHP, Java, Python
 - **Databases**: MySQL
 - **Tools**: Git, GitHub, VS Code
 
