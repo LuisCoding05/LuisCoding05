@@ -38,7 +38,8 @@
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap, React (learning)
 - **Backend**: PHP, Java, Python
-- **Databases**: MySQL
+- **Databases**: MySQL, MariaDB
+- **Cloud**: AWS (EC2, S3, RDS - basic knowledge)
 - **Tools**: Git, GitHub, VS Code
 
 ---
