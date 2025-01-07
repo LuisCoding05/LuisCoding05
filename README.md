@@ -40,6 +40,7 @@
 - **Backend**: PHP, Java, Python
 - **Databases**: MySQL, MariaDB
 - **Cloud**: AWS (EC2, S3, RDS - basic knowledge)
+- **Virtualization and Containers**: Docker, VirtualBox
 - **Tools**: Git, GitHub, VS Code
 
 ---
